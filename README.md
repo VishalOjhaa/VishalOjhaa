@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">✨My name is Vishal Ojha and I'm creating bugs since 2018.</p>
+<p align="left">✨My name is Vishal Ojha. I'm passionate about software development and I'm creating bugs since 2018. 🐛</p>
+
+<p align="left">🎓 Computer Science Graduate</p>
 
 ###
 

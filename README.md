@@ -12,6 +12,8 @@
 
 <p align="left">🎓 Computer Science Graduate</p>
 
+<p align="left">👨‍💻 My portfolio https://vishalojha.vercel.app</p>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -57,7 +59,7 @@
 ###
 
 <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=VishalOjhaa.VishalOjhaa&right_color=darkred"  />
+   <img src="https://komarev.com/ghpvc/?username=vishalojhaa&label=Profile%20views&color=0e75b6&style=flat" alt="vishalojhaa" /> 
 </div>
 
 ###

@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">👋🚀 Thanks for visiting my Github profile! 🌟📦</p>
+<p align="left">Look who’s here! 🎉 Here, you’ll find projects that range from ‘could be great’ 🤞 to ‘well, at least I tried’ 😅.</p>
 
 ###
 

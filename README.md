@@ -57,6 +57,7 @@
 ###
 
 <div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VishalOjhaa.VishalOjhaa&right_color=darkred"  />
 </div>
 
 ###

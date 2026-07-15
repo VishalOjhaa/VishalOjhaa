@@ -12,7 +12,7 @@
 
 <p align="left">🎓 Computer Science Graduate</p>
 
-<p align="left">👨‍💻 My portfolio [vishalojha.vercel.app](https://vishalojha.vercel.app)</p>
+<p align="left">👨‍💻 My portfolio <p align="left">👨‍💻 My portfolio: <a href="https://vishalojha.vercel.app">vishalojha.vercel.app</a></p>
 
 ###
 
